@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m currently learning
+I’m currently lworking a DBA and learning Python
 <!--
 **renekerr/renekerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
