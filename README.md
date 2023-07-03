@@ -1,7 +1,9 @@
-Hi there 👋
-I’m currently working as a DBA ...
-Learning Python ...
-Reading lots of books...
+# Hi 👋 !
+
+## I'm René Kerr
+<em><small style='font-size:12px;'> I’m currently working as a DBA</small></em>
+<em><small style='font-size:12px;'> Enjoy reading lots of books</small></em>
+<em><small style='font-size:12px;'> and learning Python</small></em>
 
 <!--
 **renekerr/renekerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
