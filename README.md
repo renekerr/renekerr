@@ -3,8 +3,6 @@ I'm René Kerr
 + I’m currently working as a DBA
 + Enjoy reading lots of books
 + and learning Python
-
-+ 
 <!--
 **renekerr/renekerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
